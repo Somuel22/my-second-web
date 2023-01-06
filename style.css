@@ -1,0 +1,15 @@
+.bolog{
+    background-color: lightsalmon;
+    border-width: 10px;
+    border-radius: 20px; 
+    /* margin: 40px 80px 150px 300px; */
+}
+.h3{
+    color: lightblue;
+}
+.p{
+    background-color: lightgrey;
+    /* border-width: 500px; */
+    /* border-radius: 20px;  */
+    /* margin: 40px 80px 150px 300px; */
+}
